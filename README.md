@@ -1,2 +1,2 @@
 # app-react-repo
-Repository app in rect native 
+Repository app in react native 
